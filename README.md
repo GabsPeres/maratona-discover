@@ -1,2 +1,2 @@
 # maratona-discover
- Maratona Sistema Financeiro da Rockseat
+ Maratona Sistema Financeiro da Rockeseat
